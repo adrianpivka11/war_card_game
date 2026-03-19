@@ -1,1 +1,1 @@
-# School project
+# School project -  Javascript and REST API
